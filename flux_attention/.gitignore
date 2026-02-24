@@ -1,0 +1,13 @@
+__pycache__
+.DS_Store
+
+venv
+.venv
+
+**.egg-info
+
+demo/attn_maps
+demo/**.png
+
+build
+dist

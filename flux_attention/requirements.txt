@@ -1,0 +1,7 @@
+diffusers>=0.29.0
+accelerate
+transformers
+einops
+torchvision
+protobuf
+sentencepiece
