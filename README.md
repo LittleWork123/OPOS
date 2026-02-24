@@ -1,7 +1,5 @@
-# GIRD README
 
-# GridStory: Efficient Multi-Subject Visual Story Generation via Grid-based Diffusion
-
+# GridStory: Towards Coherent Multi-Subject Visual Stories via Grid-Based One Diffusion Process
 ![GridStory ](./assets/mainwork.jpg)
 
 This is the official implementation of **GridStory**, a novel grid-based diffusion framework designed for multi-subject Visual Story Generation (VSG). By leveraging the native capabilities of the FLUX model, GridStory achieves consistent, multi-frame story synthesis in a single denoising process.
